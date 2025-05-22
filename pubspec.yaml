@@ -13,6 +13,9 @@ dependencies:
 executables:
   jvm: jvm
 
+repository: https://github.com/Sayyam1244/jvm
+homepage: https://github.com/Sayyam1244/jvm
+
 dev_dependencies:
   lints: any
   test: any
