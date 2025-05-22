@@ -1,0 +1,18 @@
+name: jvm
+description: Java Version Manager — per-project Java version manager like FVM
+version: 1.0.0
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  args: any
+  http: any
+  path: any
+
+executables:
+  jvm: jvm
+
+dev_dependencies:
+  lints: any
+  test: any
